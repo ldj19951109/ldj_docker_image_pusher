@@ -1,2 +1,1 @@
-### 要下载的镜像列表
-nginx:latest
+alpine:3.19.1
