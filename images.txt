@@ -1,1 +1,1 @@
- openjdk:17
+docker-ce-20.10.17-3.el7
