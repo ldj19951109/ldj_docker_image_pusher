@@ -1,1 +1,1 @@
-docker-ce-20.10.17-3.el7
+docker-ce
