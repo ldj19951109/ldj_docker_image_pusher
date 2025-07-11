@@ -1,1 +1,1 @@
-docker-ce
+kube-apiserver:v1.20.15
